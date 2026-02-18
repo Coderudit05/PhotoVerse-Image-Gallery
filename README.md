@@ -4,8 +4,8 @@ A beautiful, modern image gallery website built with pure HTML and CSS. This pro
 
 ## 🔗 Links
 
-- **Live Demo:** [View Live Site](https://your-username.github.io/photoverse-gallery/)
-- **GitHub Repository:** [View on GitHub](https://github.com/your-username/photoverse-gallery)
+- **Live Demo:** [View Live Site](https://photo-verse-image-gallery.vercel.app/)
+- **GitHub Repository:** [View on GitHub](https://github.com/Coderudit05/PhotoVerse-Image-Gallery)
 
 ## ✨ Features
 
@@ -51,7 +51,7 @@ PhotoVerse Image Gallery/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/photoverse-gallery.git
+   git clone https://github.com/Coderudit05/PhotoVerse-Image-Gallery.git
    ```
 
 2. **Navigate to project folder**
